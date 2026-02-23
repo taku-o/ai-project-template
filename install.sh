@@ -1,18 +1,11 @@
-# AI Project Template files
+#!/bin/bash
+set -e
 
-this project contains initial files using ai development.
+echo "Installing ai-project-template..."
 
-## Usage
-
-```
 git clone --depth 1 https://github.com/taku-o/ai-project-template.git ai-project-template
 rm -rf ai-project-template/.git ai-project-template/README.md ai-project-template/install.sh
 cd ai-project-template; tar cf - .* * | (cd ../; tar xpf -); cd ..; rm -rf ai-project-template
-```
 
-or
-
-```
-curl -fsSL https://raw.githubusercontent.com/taku-o/ai-project-template/master/install.sh | sh
-```
+echo "Done!"
 
