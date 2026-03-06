@@ -10,10 +10,17 @@
 Thumbs.db
 
 # Claude Code
+AGENTS.md
+CLAUDE.md
+CLAUDE.local.md
 .claude/worktrees/
 
 # Serena
 .serena/memories/
 .serena/cache/
 .serena/logs/
+
+# Misc
+.env
+.env.local
 
