@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+jspm_packages/
+venv/
+.venv/
+
+# Build outputs
+dist/
+build/
+out/
+*.exe
+*.dll
+*.so
+
+# Secrets & Configs
+.env
+.env.*
+*.key
+*.pem
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs & Temporary
+*.log
+tmp/
+temp/
+.cache/
+
+# Media
+public/assets/
+*.png
+*.jpg
+*.svg

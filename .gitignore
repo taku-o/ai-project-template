@@ -16,9 +16,13 @@ node_modules/
 .claude/worktrees/
 
 # Serena
-.serena/memories/
 .serena/cache/
 .serena/logs/
+.serena/storage/
+.serena/db/
+.serena/auth.json
+.serena/*.log
+.serena/tmp/
 
 # Misc
 .env
