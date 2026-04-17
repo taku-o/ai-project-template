@@ -62,14 +62,16 @@ node_modules/
 .claude/hooks/stop_words.sh
 .claude/hooks/stop_commands.sh
 .claude/hooks/stop_commands_rules.json
-.claude/commands/kiro-approve-task.md
-.claude/commands/kiro-complete-tasks.md
-.claude/commands/simplify-loop.md
-.claude/commands/kiro-approve-req.md
 .claude/commands/after-merged.md
-.claude/commands/kiro-review-spec.md
 .claude/commands/continue-task.md
-.claude/commands/serena-initialize.md
 .claude/commands/kiro-approve-design.md
+.claude/commands/kiro-approve-req.md
+.claude/commands/kiro-approve-task.md
+.claude/commands/kiro-check-survey-gap.md
+.claude/commands/kiro-complete-tasks.md
+.claude/commands/kiro-review-impl.md
+.claude/commands/kiro-review-spec.md
+.claude/commands/serena-initialize.md
+.claude/commands/simplify-loop.md
 CLAUDE.local.md
 
