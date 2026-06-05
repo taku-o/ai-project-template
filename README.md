@@ -100,7 +100,7 @@ npx cc-sdd@latest --lang ja
 ## タスク一覧を作成＋要件・設計・タスクの検証
 /kiro-spec-tasks {feature}
 /kiro-review-spec {feature}
-/kiro-approve-task {feature}
+/kiro-approve-tasks {feature}
 
 ## 指定タスクを実装する (直接 or takt経由)
 /kiro-impl {feature} {task-number}
