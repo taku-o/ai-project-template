@@ -75,6 +75,10 @@ node_modules/
 .claude/commands/kiro-review-feature.md
 .claude/commands/serena-initialize.md
 .claude/commands/simplify-loop.md
+.claude/skills/jj-new/
+.claude/skills/prevent-auto-commit/
 .claude/skills/prevent-cc-sdd-auto-progress/
+.claude/skills/rm-file/
+.claude/skills/write-claude-code-fnc/
 CLAUDE.local.md
 
